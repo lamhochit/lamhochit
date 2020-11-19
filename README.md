@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on UniSourced
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on Quantitative Finance, Blockchain
 <!--
 **lamhochit/lamhochit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

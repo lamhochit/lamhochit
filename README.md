@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-to my GitHub profile!
+<img src="https://github.com/lamhochit/lamhochit/blob/main/img/to_my_github_profile.gif" alt="to my GitHub profile!" align="center">
 </div>

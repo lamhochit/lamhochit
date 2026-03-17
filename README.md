@@ -11,6 +11,9 @@
 | |  COFFEE: critical                         | |
 | |  BUGS SHIPPED: yes                        | |
 | |                                           | |
+| |  C:\> who wrote this code                 | |
+| |  claude did. i just mass prompt.          | |
+| |                                           | |
 | |  C:\> exit                                | |
 | |  nice try.                                | |
 | |                                           | |
@@ -26,4 +29,4 @@
 
 `visitors since Y2K:` ![](https://komarev.com/ghpvc/?username=lamhochit&color=00ff00&style=flat-square&label=hits)
 
-<!-- best viewed in netscape navigator 4.0 -->
+<!-- this README was written by claude. so was everything else. i just prompt. -->

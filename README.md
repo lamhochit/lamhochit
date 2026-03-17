@@ -8,12 +8,11 @@
 | |  C:\> status                              | |
 | |  THREAT LEVEL: midnight                   | |
 | |  UPTIME: since 01/01/2000                 | |
-| |  COFFEE: mass mass                        | |
-| |  BUGS SHIPPED: mass mass                  | |
+| |  COFFEE: critical                         | |
+| |  BUGS SHIPPED: yes                        | |
 | |                                           | |
-| |  C:\> mass mass                           | |
-| |  'mass mass' is not recognized as an      | |
-| |  internal or external command.             | |
+| |  C:\> exit                                | |
+| |  nice try.                                | |
 | |                                           | |
 | |  C:\> _                                   | |
 | |___________________________________________|_|
